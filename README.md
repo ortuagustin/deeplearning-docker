@@ -19,6 +19,8 @@ Se provee un ambiente Docker listo para utilizar, con las siguientes herramienta
 
 ## Setup
 
+> Se puede utilizar directamente la imágen de Docker. Ver la sección [paquetes](https://github.com/ortuagustin/deeplearning-docker/packages) de este repositorio. De ésta manera, directamente se puede correr un contenedor utilizando `docker pull`
+
 1. Clonar el repositorio
 
 ```sh
