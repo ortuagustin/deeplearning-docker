@@ -1,0 +1,12 @@
+version: "3.5"
+
+services:
+  tf:
+    container_name: tf
+    build:
+      context: "."
+    ports:
+      - "${JUPYTER_NOTEBOOK_PORT}:8888"
+    volumes:
+      - ${WORK_DIR}:/tf
+    restart: always
