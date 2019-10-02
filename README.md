@@ -31,7 +31,7 @@ Se provee un ambiente Docker listo para utilizar, con las siguientes herramienta
 
 > Notar que el nombre del contenedor es creado es `tf` (ver `docker-compose.yml`).
 
-4. Jupyter Notebook queda levantado en http://localhost:`{JUPYTER_NOTEBOOK_PORT}`. Por defecto, http://localhost:8888.
+4. Jupyter Notebook queda levantado en `http://localhost:{JUPYTER_NOTEBOOK_PORT}`. Por defecto, http://localhost:8888.
 5. Ver más [comandos útiles](#comandos-utiles).
 
 ## Variables de entorno
