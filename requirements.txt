@@ -4,3 +4,4 @@ tensorflow
 ipython
 jupyter
 keras
+scikit-learn
