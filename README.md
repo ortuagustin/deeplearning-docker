@@ -10,6 +10,8 @@ Se provee un ambiente Docker listo para utilizar, con las siguientes herramienta
   - matplotlib (3.1.0)
   - keras (2.3.0)
   - pip (manejador de dependencias para Python)
+  - git
+  - vim
 
 ## Requisitos
 
