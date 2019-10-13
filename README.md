@@ -9,7 +9,8 @@ Se provee un ambiente Docker listo para utilizar, con las siguientes herramienta
   - numpy (1.16.4)
   - matplotlib (3.1.0)
   - keras (2.3.0)
-  - scikit-learn (0.21.3)
+  - scikit-learn (0.21.3
+  - scikit-image (0.15.0)
   - pip (manejador de dependencias para Python)
   - git
   - vim
